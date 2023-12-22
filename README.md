@@ -13,6 +13,6 @@ https://web.archive.org/web/20230621140315/https://plugins.svn.wordpress.org/woo
 
 https://web.archive.org/web/20230621140314/http://plugins.svn.wordpress.org/woocommerce-checkout-manager/tags/3.1/woocommerce-checkout-manager.php
 
-WordPress.org removed Ephrain's access to the plugin SVN on wordpress.org and replaced the creator on the 11/03/2016 without authorization from Ephrain.
+WordPress.org removed Ephrain's access to the plugin SVN on wordpress.org and replaced the creator on the 11/03/2016.
 
 Archive link: https://web.archive.org/web/20161231011757/https://wordpress.org/plugins/woocommerce-checkout-manager/
