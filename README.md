@@ -1,3 +1,5 @@
+Original Creator of WooCommerce Checkout Manager!
+
 Plugin Link: https://wordpress.org/plugins/woocommerce-checkout-manager/
 
 Internet Archive link: https://web.archive.org/web/20230306004326/https://wordpress.org/plugins/woocommerce-checkout-manager/
