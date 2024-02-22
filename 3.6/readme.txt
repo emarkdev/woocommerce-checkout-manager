@@ -5,7 +5,7 @@ Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, ch
 Requires at least: 3.0
 Tested up to: 3.8
 Stable tag: 3.6
-License: GPLv2 or later
+License: Non-GPL
 
 Manages WooCommerce Checkout
 
