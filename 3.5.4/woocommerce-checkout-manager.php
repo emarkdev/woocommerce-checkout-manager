@@ -2,29 +2,17 @@
 /*
 
 Plugin Name: WooCommerce Checkout Manager
-Plugin URI: http://www.trottyzone.com/product/woocommerce-checkout-manager-pro
+Plugin URI: 
 Description: Manages WooCommerce Checkout fields
 Version: 3.5.4
 Author: Ephrain Marchan
-Author URI: http://www.trottyzone.com
-License: GPLv2 or later
+Author URI: 
+License: Non-GPL
 */
 
 /*
 
-This program is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 2
-of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to the Free Software
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+All Rights Reserved. The content on this Github page, including code, images, videos, is protected by copyright and owned by me. Sharing, downloading, or distributing this content is strictly prohibited. Respecting copyright allows me to continue creating content you enjoy. Violators may face consequences, including reporting to platforms and potential DMCA takedowns.
 
 */
 
