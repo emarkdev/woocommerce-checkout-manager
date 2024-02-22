@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Checkout Manager
- * Plugin URI: https://wordpress.org/plugins/woocommerce-checkout-manager/
+ * Plugin URI: 
  * Description: Manages WooCommerce Checkout, the advance way.
  * Author: Ephrain Marchan
  * Version: 4.0
