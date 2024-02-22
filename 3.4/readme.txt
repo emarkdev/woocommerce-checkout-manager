@@ -1,6 +1,6 @@
 === WooCommerce Checkout Manager ===
 Contributors: Emark
-Donate link: http://www.trottyzone.com/donation/
+Donate link: 
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
