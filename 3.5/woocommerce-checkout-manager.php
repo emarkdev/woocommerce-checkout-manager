@@ -6,7 +6,7 @@ Plugin URI:
 Description: Manages WooCommerce Checkout fields
 Version: 3.5
 Author: Ephrain Marchan
-Author URI: http://www.trottyzone.com
+Author URI: 
 License: Non-GPL
 */
 
