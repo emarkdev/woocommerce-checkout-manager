@@ -5,7 +5,7 @@ Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, 
 Requires at least: 3.0
 Tested up to: 3.6
 Stable tag: 3.4
-License: GPLv2 or later
+License: Non-GPL
 
 Manages WooCommerce Checkout
 
