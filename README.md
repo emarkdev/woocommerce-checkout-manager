@@ -1,4 +1,4 @@
-Original Creator of WooCommerce Checkout Manager!
+"Ephrain M. Marchan" is the Original Creator of WooCommerce Checkout Manager!
 
 Plugin Link: https://wordpress.org/plugins/woocommerce-checkout-manager/
 
