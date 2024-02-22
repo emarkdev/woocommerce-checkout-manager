@@ -1,11 +1,11 @@
 === WooCommerce Checkout Manager ===
 Contributors: Emark
-Donate link: http://www.trottyzone.com/donation/
+Donate link: 
 Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option, field, payment, sell, buy, pay, tax, notice, re-order, order, new field, save field, manager, options, field editor
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 3.6.5
-License: GPLv2 or later
+License: Non-GPL
 
 Manages WooCommerce Checkout
 
