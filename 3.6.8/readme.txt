@@ -1,11 +1,11 @@
 === WooCommerce Checkout Manager ===
 Contributors: Emark
-Donate Link: http://www.trottyzone.com/donation/
+Donate Link: 
 Tags: woocommerce, cart, checkout, field, shipping, billing, order, manage, manager, require, remove, change, editor, edit, sort, multi, checkbox, select, radio, textarea, text, html, swapper, conditional, tags, retain, information, country, state, exempt, pro, important, custom, options, payment, sell, buy, pay, tax, notice, re-order, addition, amount, exempt, sale, affiliate, replace, date, picker, time, password, sales, boost, file, upload, picture, branch, unset, form, solution, commerce, e-commerce, store, shop, stock, variable, trottyzone, wordpress, woothemes
 Requires at least: 3.0
 Tested up to: 4.4
 Stable tag: 3.6.8
-License: GPLv2 or later
+License: Non-GPL
 
 Manages WooCommerce Checkout
 
