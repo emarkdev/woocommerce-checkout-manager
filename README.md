@@ -1,3 +1,6 @@
+Download Link:
+https://emarkdev.com/sdc_download/828/?key=yxm8vici2h9b1il5nr5i0wmldv44sz
+
 "Ephrain M. Marchan" is the Original Creator of WooCommerce Checkout Manager!
 
 Plugin Link: https://wordpress.org/plugins/woocommerce-checkout-manager/
